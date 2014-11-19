@@ -1,7 +1,0 @@
-{
-	"name": "wikipedia",
-	"displayName": "Wikipedia (EN)",
-	"description": "Search English Wikipedia (wiki).",
-	"examples": ["wiki Dogs", "wiki St. Louis, MO", "wiki Flashlight", "wiki ducks", "wiki Al Hirschfeld"],
-	"categories": ["Search", "Featured"]
-}
