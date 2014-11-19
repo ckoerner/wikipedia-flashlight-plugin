@@ -16,4 +16,4 @@ Place the wikipedia.bundle in the following directory
         
 Start Flashlight and enable the plugin under Featured and Search categories.
 
-The syntax is "wiki **query string**"
+The syntax is "wiki *query string*"
