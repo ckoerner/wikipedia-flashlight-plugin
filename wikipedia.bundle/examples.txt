@@ -1,0 +1,5 @@
+wiki Dogs ~enWiki(query here)
+wiki St. Louis, MO ~enWiki(query here)
+wiki Flashlight ~enWiki(query here)
+wiki ducks ~enWiki(query here)
+wiki Al Hirschfeld ~enWiki(query here)
